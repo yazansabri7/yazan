@@ -1,8 +1,15 @@
- .team{
+.team{
     background-color: white;
     text-align: center;
 
  }
- .gr{
+ .hh{
     color: gray;
+ }
+ .ii{
+    float: left;
+    width: 33.3333333333%;
+ }
+ .clear{
+   clear: both;
  }
